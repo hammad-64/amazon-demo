@@ -81,3 +81,5 @@ document.querySelectorAll('.js-add-to-cart')
             updateCartQuantity(cartQuantity);
         });
     });
+
+    console.log('Enjoying')
